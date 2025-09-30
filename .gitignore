@@ -1,1 +1,19 @@
-Data/
+# Data (keep folder, ignore large CSVs)
+Data/*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / Python cache
+.DS_Store
+__pycache__/
+*.pyc
+
+# Heavy or derived artifacts (do not push)
+*.png
+*.pkl
+
+# Logs and temp
+*.log
+*.tmp
+*.cache/
