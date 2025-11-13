@@ -1,5 +1,7 @@
 # Data (keep folder, ignore large CSVs)
 Data/*.csv
+Data_description_project_DSAIB_2025.xlsx
+dataproject2025.csv
 
 # Notebook checkpoints
 .ipynb_checkpoints/
