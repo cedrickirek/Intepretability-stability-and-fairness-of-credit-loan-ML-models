@@ -1,6 +1,8 @@
 # Loan Default Modeling: Interpretability, Stability, and Fairness
 
-This repository contains a reproducible workflow to study model interpretability, stability, and fairness on a loan default dataset. It includes:
+This repository contains a reproducible workflow to study model interpretability, stability, and fairness on a loan default dataset. 
+The version on the main branch is the original group work that was done; the most updated and improved version is on the branch called "my_version". 
+The main branch includes:
 - Data loading and preprocessing
 - A surrogate model (Decision Tree) to approximate the provided default probabilities
 - A high-performance black-box model (XGBoost) trained on the true target
