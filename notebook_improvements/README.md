@@ -1,12 +1,12 @@
-# 🎓 Interview Preparation Package: Interpretability Project
+#  Interview Preparation Package: Interpretability Project
 
-## 📦 Package Contents
+##  Package Contents
 
 This folder contains everything you need to prepare your notebook and yourself for the Artefact data scientist interview.
 
 ---
 
-## 📁 Files Overview
+##  Files Overview
 
 ### 🔧 Code Improvements (Add to Notebook)
 1. **01_executive_summary.md** - Markdown cell with project overview
@@ -16,7 +16,7 @@ This folder contains everything you need to prepare your notebook and yourself f
 5. **05_enhanced_fairness_analysis.py** - Comprehensive fairness audit
 6. **06_feature_importance_comparison.py** - Feature importance consensus
 
-### 📚 Interview Preparation (Study Materials)
+###  Interview Preparation (Study Materials)
 7. **INTERVIEW_CHEAT_SHEET.md** - Quick reference for interview
 8. **TECHNICAL_QA_GUIDE.md** - Deep technical Q&A preparation
 9. **IMPLEMENTATION_GUIDE.md** - How to add improvements to notebook
@@ -24,7 +24,7 @@ This folder contains everything you need to prepare your notebook and yourself f
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Step 1: Improve Your Notebook (1-2 hours)
 1. Open `IMPLEMENTATION_GUIDE.md`
@@ -51,7 +51,7 @@ This folder contains everything you need to prepare your notebook and yourself f
 
 ---
 
-## 🎯 What Each File Improves
+##  What Each File Improves
 
 | File | What It Adds | Why It Matters |
 |------|--------------|----------------|
@@ -67,22 +67,22 @@ This folder contains everything you need to prepare your notebook and yourself f
 
 ---
 
-## 📊 Expected Outcomes
+##  Expected Outcomes
 
 ### Before Improvements
-- ❌ No executive summary
-- ❌ Performance metrics scattered
-- ❌ LIME/SHAP results not visualized prominently
-- ❌ Fairness analysis incomplete
-- ❌ No feature importance consensus
+-  No executive summary
+-  Performance metrics scattered
+-  LIME/SHAP results not visualized prominently
+-  Fairness analysis incomplete
+-  No feature importance consensus
 
 ### After Improvements
-- ✅ Clear executive summary with key findings
-- ✅ Comprehensive performance table + plots
-- ✅ Professional LIME/SHAP visualizations
-- ✅ Actionable fairness recommendations
-- ✅ Feature importance triangulation
-- ✅ Interview-ready documentation
+-  Clear executive summary with key findings
+-  Comprehensive performance table + plots
+-  Professional LIME/SHAP visualizations
+-  Actionable fairness recommendations
+-  Feature importance triangulation
+-  Interview-ready documentation
 
 ---
 
@@ -100,7 +100,7 @@ After implementing improvements, you can confidently say:
 
 ---
 
-## ⏱️ Time Investment
+##  Time Investment
 
 | Activity | Time Required | Priority |
 |----------|---------------|----------|
@@ -116,7 +116,7 @@ After implementing improvements, you can confidently say:
 
 ---
 
-## 🏆 Success Criteria
+##  Success Criteria
 
 You're ready when:
 - [ ] Notebook runs without errors
@@ -164,23 +164,23 @@ By implementing this package, you'll be able to:
 
 ---
 
-## 🔍 Quality Assurance
+##  Quality Assurance
 
 All code has been:
-- ✅ Tested for syntax errors
-- ✅ Documented with clear comments
-- ✅ Designed for reproducibility
-- ✅ Optimized for interview presentation
+-  Tested for syntax errors
+-  Documented with clear comments
+-  Designed for reproducibility
+-  Optimized for interview presentation
 
 All interview materials have been:
-- ✅ Structured for quick reference
-- ✅ Tailored to Artefact's consulting focus
-- ✅ Validated against common interview questions
-- ✅ Written in clear, professional language
+-  Structured for quick reference
+-  Tailored to Artefact's consulting focus
+-  Validated against common interview questions
+-  Written in clear, professional language
 
 ---
 
-## 🚨 Important Notes
+##  Important Notes
 
 1. **Customize for Your Data**: Some code assumes variable names like `y_val_2016`, `full_df_val_1`, etc. Update if your variables differ.
 
@@ -194,7 +194,7 @@ All interview materials have been:
 
 ---
 
-## 📞 Troubleshooting
+##  Troubleshooting
 
 ### Problem: Code cells don't run
 **Solution**: Check variable names match your notebook. Update as needed.
@@ -216,7 +216,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm lime shap scip
 
 ---
 
-## 🎯 Final Checklist
+##  Final Checklist
 
 **Technical Preparation**:
 - [ ] All 6 code cells added to notebook
@@ -238,7 +238,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm lime shap scip
 
 ---
 
-## 🌟 Good Luck!
+##  Good Luck!
 
 You've built an impressive project. This package ensures you can communicate its value effectively to Artefact.
 
@@ -250,7 +250,7 @@ You've built an impressive project. This package ensures you can communicate its
 
 ---
 
-## 📧 Package Summary
+##  Package Summary
 
 **Created**: [Date]
 **Purpose**: Prepare interpretability project for Artefact data scientist interview
@@ -259,4 +259,4 @@ You've built an impressive project. This package ensures you can communicate its
 
 ---
 
-**Now go get that job! 🚀**
+**Now go get that job! **
